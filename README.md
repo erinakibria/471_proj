@@ -1,0 +1,3 @@
+- main page is in home.php, redirections to management.php, guest.php, or staff.php are subject to login/signup information provided
+- hotel_db.php provided the connection to the apache/php/mysql server via mamp
+- database creation and insertion queries can be seen in hotel.sql
